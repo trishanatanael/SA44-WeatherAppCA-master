@@ -18,7 +18,7 @@ import { Http, HttpModule } from '@angular/http';
 
 export class AddCityComponent implements OnInit {
 
-  private static APPID = '2765e1be7926a66d3d64132e2164612f';
+  private static APPID = 'dfbada2f4d037580e0038dcf38780281';
 
   @ViewChild('weatherForm') weatherForm: NgForm;
 
